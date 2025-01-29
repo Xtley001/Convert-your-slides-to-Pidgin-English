@@ -1,0 +1,30 @@
+# Required for building the app's UI
+streamlit==1.37.0
+
+# Google Gemini AI model integration
+google-generativeai==0.7.2
+
+# For extracting text from PDF files
+PyPDF2==3.0.1
+
+# For generating and manipulating .docx files
+python-docx==1.1.2
+
+# For extracting text from PPT files
+python-pptx==1.0.2
+
+# For environment variable handling
+python-dotenv==1.0.1
+
+# Required for image handling and formula rendering
+Pillow==10.4.0
+
+# For LaTeX formula rendering
+matplotlib==3.9.2
+
+
+ # myenv\Scripts\activate
+ # python -m venv myenv
+# streamlit run app.py
+
+
